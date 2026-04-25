@@ -5,7 +5,7 @@ Dataset: Brazilian E-commerce Public Dataset by Olist
 
 Due to GitHub file size limitations, the Power BI (.pbix) file is hosted externally.
 
-👉 [Download Brazil E-commerce Dashboard](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)
+[👉 [Download Brazil E-commerce Dashboard](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)](https://drive.google.com/file/d/1F3E9Usm6r68mscAlrqTkCSHQVmVvDY4W/view?usp=drive_link)
 
 # 📊 E-commerce Sales & Customer Insights Dashboard (Brazil – Olist Dataset)
 
