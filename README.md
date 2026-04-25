@@ -8,7 +8,7 @@
 
 Due to GitHub file size limitations, the Power BI (.pbix) file is hosted externally.
 
-👉 [Download Power BI Dashboard (.pbix)](https://drive.google.com/file/d/1F3E9Usm6r68mscAlrqTkCSHQVmVvDY4W/view?usp=drive_link)
+👉 [Download Power BI Dashboard (.pbix)](https://drive.google.com/file/d/1F3E9Usm6r68mscAlrqTkCSHQVmVvDY4W/view?usp=sharing)
 
 *Note: Download the file and open it using Power BI Desktop.*
 
