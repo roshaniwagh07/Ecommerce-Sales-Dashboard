@@ -32,9 +32,11 @@ The dashboard provides insights into **sales performance, customer behavior, and
 * 🚚 **On-time Delivery Rate:** 92%
 * 🔁 **Repeat Customer Rate:** ~3%
 
-* Majority of customers are new (~97%), indicating low retention
-* Repeat customers experience lower late delivery rates
-* Delivery performance appears to influence customer retention
+### 🔍 Key Findings
+
+- Majority of customers are new (~97%), indicating low retention  
+- Repeat customers experience lower late delivery rates  
+- Delivery performance appears to influence customer retention 
 
 ### ⭐ Business Insight:
 
